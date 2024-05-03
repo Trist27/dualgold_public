@@ -27,6 +27,9 @@ Risk is evaluated using proprietary forward looking metrics aiming at improving 
 Alternative cryptocurrencies to bitcoin may offer attractive risk-reward profiles. Our model opportunistically diversify away from bitcoin to such cryptocurrencies, with a stringent risk control and drawdowns control mechanism for a long term capital preservation.
 ![image](https://github.com/tamecap/dualgold_public/assets/41928138/2404ab5b-7006-40bb-822b-33753a682a87)
 
+## Monthly returns
+![image](https://github.com/tamecap/dualgold_public/assets/41928138/b5e0aee8-7938-4407-a418-f258b102a533)
+
 ## Competitors Analysis
 - **[21Shares Bytetree BOLD ETP](https://www.21shares.com/product/bold)**: 
 A simplified and passive product that blends gold and Bitcoin, rebalanced monthly based on long term historical volatility.
