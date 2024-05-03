@@ -1,6 +1,6 @@
 # TAME DUALGOLD
 ![image](https://github.com/tamecap/dualgold_public/assets/41928138/719b21ef-36cf-443b-946f-af9871768090)
-[Investment thesis]()
+**Investment thesis**:[pdf link]()
 ## Introduction
 In the realm of investment, gold and cryptocurrencies such as Bitcoin represent complementary assets rather than competitors. Our approach integrates these two by exploiting their unique store values characteristics and performance potential in a robust investment strategy particularly suited for turbulent economic conditions.
 - **Diversification**: Combines the best of both worlds—traditional and digital investments.
