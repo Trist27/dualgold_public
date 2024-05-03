@@ -32,7 +32,7 @@ A simplified and passive product that blends gold and Bitcoin, rebalanced monthl
 - **[IncrementumCrypto Gold Fund](https://www.interactivebrokers.co.uk/sso/Login?RL=1&locale=en_US))**
 A more active allocative that can include Silver and cryptocurrencies.
 
-| ![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/f2d58f7a-2b07-4f4d-b845-0688df476c9b)| ![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/f9f68d15-eddb-4cc6-9832-e594577319ba)|
+| ![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/f2d58f7a-2b07-4f4d-b845-0688df476c9b)| ![image](https://github.com/tamecap/dualgold_public/assets/41928138/f9b8d808-e24d-4c3e-9d3e-e91bc9d909b5)|
 |-------------------------|-------------------------|
 | 21Shares BOLD ETP  | Incrementum Crypto Gold  |
 
