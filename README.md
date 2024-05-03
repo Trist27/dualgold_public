@@ -14,7 +14,8 @@ In the realm of investment, gold and cryptocurrencies such as Bitcoin represent 
 - **50% Cryptocurrencies**: Enhances potential gains through volatility. This includes:
   - 25% Bitcoin
   - 25% Alternative cryptocurrencies
-![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/12b0674e-e6f2-4fd4-a477-fe36267d046e)
+![image](https://github.com/tamecap/dualgold_public/assets/41928138/ad32780c-4572-44ea-a46d-b80f44c013e5)
+
 
 
 ## Performance
@@ -24,7 +25,7 @@ The portfolio is rebalanced monthly based on proprietary risk metrics. This ensu
 Risk is evaluated using proprietary forward looking metrics aiming at improving risk management and reducing drawdownscompared to standard methods.
 - **Alt coins potential**
 Alternative cryptocurrencies to bitcoin may offer attractive risk-reward profiles. Our model opportunistically diversify away from bitcoin to such cryptocurrencies, with a stringent risk control and drawdowns control mechanism for a long term capital preservation.
-![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/6653bb23-ffbc-4a23-a01b-40fe4fb60050)
+![image](https://github.com/tamecap/dualgold_public/assets/41928138/2404ab5b-7006-40bb-822b-33753a682a87)
 
 ## Competitors Analysis
 - **[21Shares Bytetree BOLD ETP](https://www.21shares.com/product/bold)**: 
@@ -32,7 +33,7 @@ A simplified and passive product that blends gold and Bitcoin, rebalanced monthl
 - **[IncrementumCrypto Gold Fund](https://www.interactivebrokers.co.uk/sso/Login?RL=1&locale=en_US))**
 A more active allocative that can include Silver and cryptocurrencies.
 
-| ![image](https://github.com/tamecap/rnd_dualgold/assets/41928138/f2d58f7a-2b07-4f4d-b845-0688df476c9b)| ![image](https://github.com/tamecap/dualgold_public/assets/41928138/f9b8d808-e24d-4c3e-9d3e-e91bc9d909b5)|
+| ![image](https://github.com/tamecap/dualgold_public/assets/41928138/d46837ec-accc-42e6-a990-7340d5dc95c8)| ![image](https://github.com/tamecap/dualgold_public/assets/41928138/f9b8d808-e24d-4c3e-9d3e-e91bc9d909b5)|
 |-------------------------|-------------------------|
 | 21Shares BOLD ETP  | Incrementum Crypto Gold  |
 
